@@ -1,0 +1,22 @@
+Hello Mr.Furze,
+
+I hope these files find you well. You'll see two folders: 
+
+	Original: 
+		In this folder, you'll find two files... An STL and a STEP file. The STEP looks a lot 
+		more impressive than the STL, and it is easily editable in either SolidWorks or Fusion. I figured you might
+		want it. If you open it in the right software, I believe it will retain the colors I assigned to each part. 
+
+	Specifically for 3D Print: 
+		These files are specifically designed to be 3D printed. They aren't 1 for 1 like
+		the original CAD, but my hope is it will be easier to 3D print, and will retain
+		its shapes better. Just know you might need some superglue for assembly. I don't 
+		think a blowtorch will work well on this drift trike :)
+
+
+All these files are as close to scale as I could divine from your videos. For 3D printing, especially on that TazBot I've seen, I'd recommend
+a scale of 12%
+
+
+Best wishes for a healthier tomorrow,
+	Henry Forsyth of Forsyth Creations
