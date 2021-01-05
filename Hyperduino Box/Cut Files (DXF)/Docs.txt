@@ -1,0 +1,5 @@
+For Reference:
+
+RED - CUT 
+BLUE - ENGRAVE/TRACE
+GREEN - RASTER
