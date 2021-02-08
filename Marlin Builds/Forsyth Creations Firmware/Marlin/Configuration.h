@@ -996,7 +996,7 @@
 
 // Feedrate (mm/min) for the "accurate" probe of each point
 //#define Z_PROBE_SPEED_SLOW (Z_PROBE_SPEED_FAST / 2)
-#define Z_PROBE_SPEED_SLOW Z_PROBE_SPEED_FAST //changed by Henry in an attempt to speed up Z homing. 80% speed instead of 50% speed
+#define Z_PROBE_SPEED_SLOW Z_PROBE_SPEED_FAST / 2 //changed by Henry in an attempt to speed up Z homing. 80% speed instead of 50% speed
 
 /**
  * Multiple Probing
@@ -1025,7 +1025,7 @@
  *     But: `M851 Z+1` with a CLEARANCE of 2  =>  2mm from bed to nozzle.
  */
 #define Z_CLEARANCE_DEPLOY_PROBE   8 // Z Clearance for Deploy/Stow (Henry was 10, is now 8)
-#define Z_CLEARANCE_BETWEEN_PROBES  3 // Z Clearance between probe points (Henry was 5, is now )
+#define Z_CLEARANCE_BETWEEN_PROBES  4 // Z Clearance between probe points (Henry was 5)
 #define Z_CLEARANCE_MULTI_PROBE     5 // Z Clearance between multiple probes 
 //#define Z_AFTER_PROBING           5 // Z position after probing is done
 
@@ -1119,8 +1119,8 @@
 // @section machine
 
 // The size of the print bed
-#define X_BED_SIZE 235
-#define Y_BED_SIZE 235
+#define X_BED_SIZE 220
+#define Y_BED_SIZE 220
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
 #define X_MIN_POS 0
@@ -1239,7 +1239,7 @@
  * Normally G28 leaves leveling disabled on completion. Enable
  * this option to have G28 restore the prior leveling state.
  */
-//#define RESTORE_LEVELING_AFTER_G28
+#define RESTORE_LEVELING_AFTER_G28
 
 /**
  * Enable detailed logging of G28, G29, M48, etc.
@@ -1370,7 +1370,7 @@
 // Manually set the home position. Leave these undefined for automatic settings.
 // For DELTA this is the top-center of the Cartesian print volume.
 //#define MANUAL_X_HOME_POS 0
-//#define MANUAL_Y_HOME_POS 0
+#define MANUAL_Y_HOME_POS -5
 //#define MANUAL_Z_HOME_POS 0
 
 // Use "Z Safe Homing" to avoid homing with a Z probe outside the bed area.
