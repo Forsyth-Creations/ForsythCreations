@@ -6,11 +6,12 @@
 //======================= DO NOT MODIFY THIS FILE ===========================
 //===========================================================================
 
-#define UNIFIED_VERSION "TH3D UFW 2.17"
+#define UNIFIED_VERSION "AnyCubic"
 
 /**
  * TH3D Sanity Checks
  */
+#define TH3D_STATUS_SCREEN_LOGO
 
 #if ENABLED(ABL_ENABLE) && ENABLED(S_CURVE_ACCELERATION)
   #error "S_CURVE_ACCELERATION is not compatible with ABL systems. Disable this and re-compile."

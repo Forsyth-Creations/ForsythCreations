@@ -221,4 +221,13 @@ namespace Anycubic {
     n_END
   };
 
+
+const uint16_t Ram_Ranch_Tune[] = {
+    500,
+    n_D5, l_T1, n_F5, l_T2, n_E5, l_T2, n_C5, l_T2, 
+    n_D5, l_T1, n_F5, l_T2, n_E5, l_T2, n_C5, l_T2, 
+   n_D5, l_T1, n_F5, l_T2, n_E5, l_T2, n_C5, l_T2, 
+    n_END
+  };
+
 }
