@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128pt"
+   height="64pt"
+   viewBox="0 0 45.155557 22.577778"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Mike's New Screen.svg"
+   inkscape:export-filename="C:\Users\14349\Desktop\bitmap.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
+  <defs
+     id="defs2">
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient838"
+       gradientUnits="userSpaceOnUse"
+       x="34.065105"
+       y="284.05432"
+       gradientTransform="matrix(0.83793308,0,0,0.83793308,-2.7636302,44.928018)">
+      <meshrow
+         id="meshrow840">
+        <meshpatch
+           id="meshpatch842">
+          <stop
+             path="c 1.49616,0  2.99231,0  4.48847,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop844" />
+          <stop
+             path="c 0,0  0,0  0,0"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop846" />
+          <stop
+             path="c -1.49616,0  -2.99231,0  -4.48847,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop848" />
+          <stop
+             path="c 0,0  0,0  0,0"
+             style="stop-color:#800080;stop-opacity:1"
+             id="stop850" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="112.89284"
+     inkscape:cy="51.073232"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="pt"
+     inkscape:window-width="1707"
+     inkscape:window-height="937"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-274.42223)">
+    <g
+       id="g854"
+       transform="matrix(0.83793308,0,0,0.83793308,-2.7636302,44.604476)"
+       inkscape:export-filename="C:\Users\14349\path880.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
+      <path
+         sodipodi:nodetypes="csssc"
+         inkscape:connector-curvature="0"
+         id="path815"
+         d="m 7.9643717,284.44044 c -1.0558022,-0.87967 -1.7277629,-1.9991 -1.7277638,-3.48078 -1.5e-6,-2.64852 2.1470484,-4.79558 4.7955731,-4.79558 2.648524,0 4.795574,2.14706 4.795572,4.79558 -10e-7,1.37056 -0.574953,2.60683 -1.49682,3.48078"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+      <path
+         sodipodi:nodetypes="csssc"
+         inkscape:connector-curvature="0"
+         id="path815-8"
+         d="m 7.9643716,284.44044 c -1.0558023,0.87967 -1.727763,1.9991 -1.7277639,3.48078 -1.5e-6,2.64852 2.1470484,4.79558 4.7955733,4.79558 2.648523,0 4.795573,-2.14706 4.795571,-4.79558 -1e-6,-1.37056 -0.574953,-2.60683 -1.496819,-3.48078"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.2305218;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 11.253309,280.65201 h 11.5581 1.702363 l 0.948021,-0.44341 c 1.828844,-0.85538 3.6444,1.31972 3.6444,2.40824 v 1.10278 c 0,1.08852 -1.815556,2.82022 -3.6444,1.96484 l -0.948021,-0.44341 H 23.128127 11.253309"
+       id="rect833"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccssssccc"
+       inkscape:export-filename="C:\Users\14349\path880.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:url(#meshgradient838);fill-opacity:1;stroke:#000000;stroke-width:0.83793306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 29.541683,282.94653 H 25.780647"
+       id="path836"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\14349\path880.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.31829357px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19744667"
+       x="3.6777935"
+       y="295.72098"
+       id="text858"
+       inkscape:export-filename="C:\Users\14349\path880.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400"><tspan
+         sodipodi:role="line"
+         id="tspan856"
+         x="3.6777935"
+         y="295.72098"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Optimus;-inkscape-font-specification:Optimus;stroke-width:0.19744667">RAM RANCH</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 31.003266,282.50064 c 0,0 3.396167,-0.0609 4.944486,-0.66818 1.369122,-0.53697 2.622984,-1.44713 3.608138,-2.53906 0.854993,-0.94766 1.870885,-3.34087 1.870885,-3.34087"
+       id="path876"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="C:\Users\14349\path880.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 31.203717,284.90606 c 0,0 3.026885,0.0817 4.476763,0.46772 2.235579,0.59515 4.522195,1.38516 6.347653,2.80633 0.513281,0.3996 1.202711,1.5368 1.202711,1.5368"
+       id="path878"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssc"
+       inkscape:export-filename="C:\Users\14349\path880.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 32.005526,283.77017 11.759859,-0.46772"
+       id="path880"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\14349\path880.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400" />
+  </g>
+</svg>
