@@ -7,10 +7,10 @@
 #define OFF_COLOR       0xff000000
 #define WHITE_COLOR     0xffFFFF88
 
-#define LEFT_HEADLIGHT 15
-#define RIGHT_HEADLIGHT 14
-#define SWITCH  2 //Choose between off, daytime, night time
-#define DIAL 3
+#define LEFT_HEADLIGHT 2
+#define RIGHT_HEADLIGHT 3
+#define SWITCH  4 //Choose between off, daytime, night time
+#define DIAL 5
 
 #define OFF 1300;
 #define DAY_TIME 1700;
