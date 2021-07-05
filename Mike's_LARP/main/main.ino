@@ -1,5 +1,9 @@
 /*
   main.cpp - timer based Neopixel and relay lighting scheme
+  for Michael Yanoschnak's robot. Designed to sync lights on
+  front and side of robot.
+  Current Version: July 2, 2021: 23:46 EST
+  
   Copyright (c) 2021 Henry Forysth.  All right reserved.
   This code is free software; you can redistribute it and/or
   modify it under the terms of the GNU Lesser General Public
@@ -143,7 +147,6 @@ void loop() {
     {
       botLight.headlightsOff();
     }
-
     counter++;
     if (counter == 10)
     {

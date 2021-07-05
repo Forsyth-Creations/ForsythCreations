@@ -1,0 +1,1 @@
+While Cura does support tree supports, I have had great success using normal supports. They pop out of the USB spots incredibly well.
