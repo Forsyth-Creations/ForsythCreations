@@ -1,0 +1,4 @@
+As of July 10th, 2021, it seems that Fusion 360 (my prefered CAD software) has started using .3mf instead of .stl files for mesh export. 
+If you are like me an use Cura, you'll find that this change isn't an issue. 
+
+So, when printing, just import the .3mf files! They work the same as .stl!
