@@ -21,7 +21,7 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "Ram Ranch For Life"
+#define CONFIG_EXAMPLES_DIR "Return of the King"
 /**
  * Configuration.h
  *
@@ -132,7 +132,7 @@
 #endif
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "Ram Ranch 4 Life"
+#define CUSTOM_MACHINE_NAME "Roi, My King"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
