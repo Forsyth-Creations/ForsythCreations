@@ -433,7 +433,7 @@
  * Define one or both of these to override the default 0-255 range.
  */
 //#define FAN_MIN_PWM 50
-#define FAN_MAX_PWM 128
+#define FAN_MAX_PWM 255
 
 /**
  * FAST PWM FAN Settings

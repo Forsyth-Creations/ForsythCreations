@@ -216,8 +216,8 @@
 // How to use - measure (home XY then jog using the LCD 1mm at a time) the X and Y distance the nozzle is off
 // the build plate and then put those as NEGATIVE values below, positive values will NOT work (move your endstops to fix a positve offset).
 #define HOME_ADJUST
-#define X_HOME_LOCATION -10
-#define Y_HOME_LOCATION -10
+#define X_HOME_LOCATION -7
+#define Y_HOME_LOCATION -14
 
 // PID BED TEMPERATURE CONTROL ---------------------
 // If you want PID Bed Temperature control enable the below line. You will need to tune it for your machine.
@@ -335,7 +335,7 @@
 
   #define X_BED_SIZE 220
   #define Y_BED_SIZE 220
-  #define Z_MAX_POS 300
+  #define Z_MAX_POS 200
   
   #if ENABLED(HOME_ADJUST)
     #define X_MIN_POS X_HOME_LOCATION

@@ -48,7 +48,7 @@
   #define HEATER_6_MAXTEMP HIGH_TEMP_THERMISTOR_TEMP
   #define HEATER_7_MAXTEMP HIGH_TEMP_THERMISTOR_TEMP
 #else
-  #define HEATER_0_MAXTEMP 275
+  #define HEATER_0_MAXTEMP 285
   #define HEATER_1_MAXTEMP HEATER_0_MAXTEMP
   #define HEATER_2_MAXTEMP HEATER_0_MAXTEMP
   #define HEATER_3_MAXTEMP HEATER_0_MAXTEMP
@@ -85,9 +85,9 @@
 #endif
 
 #ifndef DEFAULT_Kp
-  #define DEFAULT_Kp 22.2 // Define Marlin default PID if no machine specific PID is defined.
-  #define DEFAULT_Ki 1.08
-  #define DEFAULT_Kd 114
+  #define DEFAULT_Kp 20.47 // Define Marlin default PID if no machine specific PID is defined.
+  #define DEFAULT_Ki 1.42
+  #define DEFAULT_Kd 73.79
 #endif
 
 #if ENABLED(ENABLE_PIDBED) // PID Bed is not needed. Bang Bang loop is set to 500ms
